@@ -1,0 +1,19 @@
+{
+  "name": "backend-js-shopping",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el código fuente del taller de MedellinJS sobre cómo crear un carrito de compras con NodeJS / Express / MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guivifra/backend-js-shopping.git"
+  },
+  "author": "Guillermo Vidal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guivifra/backend-js-shopping/issues"
+  },
+  "homepage": "https://github.com/guivifra/backend-js-shopping#readme"
+}
